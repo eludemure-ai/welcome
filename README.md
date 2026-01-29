@@ -1,6 +1,3 @@
 # welcome
-This is a repo designed to let students freely play around with git commands.
-
-My name is Eldana.
-
-My New Branch!
+This is a repo designed to let students freely play around with git commands
+My name is Eldana 
